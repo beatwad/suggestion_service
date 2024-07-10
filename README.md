@@ -1,5 +1,7 @@
 # Search requests suggestion service with FastAPI
 
+Use direct and reverse tries for searching of the best suggestion results.
+
 ## Service start
 
 `bash run.sh`
